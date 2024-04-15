@@ -26,7 +26,7 @@ bck-ground{
 }
 .img-card {
   width: 30%;
-  /*height:200px;*/
+  height:200px;
   border-top-left-radius:2px;
   border-top-right-radius:2px;
   display:block;
@@ -34,7 +34,7 @@ bck-ground{
 }
 .img-card img{
   width: 30%;
-  /*height: 200px;*/
+  height: 200px;
   object-fit:cover; 
   transition: all .25s ease;
 }
